@@ -2,7 +2,7 @@
 
 var figlet = require("figlet");
 
-figlet("Mera Naam hai bulla \n Karta hun khulla", function (err, data) {
+figlet("mera naam hai pote \n jo apne baap ke bhi nhi hote ", function (err, data) {
   if (err) {
     console.log("Something went wrong...");
     console.dir(err);
